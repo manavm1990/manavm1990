@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gocodefinity" target="blank"><img src="https://img.shields.io/twitter/follow/gocodefinity?logo=twitter&style=for-the-badge" alt="gocodefinity" /></a> </p>
 
-- 🌱 I’m currently learning **C3/.Net**
+- 🌱 I’m currently learning **C#/.Net**
 
 - 💬 Ask me about **react**
 
