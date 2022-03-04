@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manavm@visionwebsoft.com**
 
-- ⚡ Fun fact **I ❤️ 🤼**
+- ⚡ Fun fact **I ❤️ watching 📺 🤼 and lifting heavy weights 🏋🏾‍♂️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
