@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I ❤️ watching 📺 🤼 and lifting heavy weights 🏋🏾‍♂️.**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.codementor.io/@manavm1990?refer=badge"><img src="https://www.codementor.io/m-badges/manavm1990/find-me-on-cm-b.svg" alt="Codementor badge"></a>
 <p align="left">
 <a href="https://dev.to/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codefinity" height="30" width="40" /></a>
 <a href="https://twitter.com/gocodefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gocodefinity" height="30" width="40" /></a>
@@ -23,7 +24,6 @@
 <a href="https://stackoverflow.com/users/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codefinity" height="30" width="40" /></a>
 <a href="https://medium.com/@codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codefinity" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucwgoouzz4fo9azdcvfi8lwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwgoouzz4fo9azdcvfi8lwg" height="30" width="40" /></a>
-  <a href="https://www.codementor.io/@manavm1990?refer=badge"><img src="https://www.codementor.io/m-badges/manavm1990/find-me-on-cm-b.svg" alt="Codementor badge"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
