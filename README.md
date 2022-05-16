@@ -16,7 +16,7 @@
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 sports entertainment.
   - I 💙 playing Mario Kart on Nintendo Switch
-  - I am an beginner powerlifter 🏋️‍♂️.
+  - I am a beginner powerlifter 🏋️‍♂️.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.codementor.io/@manavm1990?refer=badge"><img src="https://www.codementor.io/m-badges/manavm1990/find-me-on-cm-b.svg" alt="Codementor badge"></a>
