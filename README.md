@@ -19,7 +19,6 @@
   - I am a beginner powerlifter 🏋️‍♂️.
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.codementor.io/@manavm1990?refer=badge"><img src="https://www.codementor.io/m-badges/manavm1990/find-me-on-cm-b.svg" alt="Codementor badge"></a>
 <p align="left">
 <a href="https://dev.to/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codefinity" height="30" width="40" /></a>
 <a href="https://twitter.com/gocodefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gocodefinity" height="30" width="40" /></a>
