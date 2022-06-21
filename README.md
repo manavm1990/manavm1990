@@ -16,7 +16,7 @@
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 sports entertainment.
   - I 💙 playing Mario Kart on Nintendo Switch
-  - I'm working on losing 10 pounds by July 13, 2022. That means I am 🏃‍♂️ running. 😓
+  - I'm working on losing ~~10~~ 20 pounds by July 13, 2022. That means I am 🏃‍♂️ running (sometimes). 😓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
