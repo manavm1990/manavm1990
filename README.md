@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gocodefinity" target="blank"><img src="https://img.shields.io/twitter/follow/gocodefinity?logo=twitter&style=for-the-badge" alt="gocodefinity" /></a> </p>
 
-- 🌱 I’m currently learning more about all things testing ✅ for React.
+- 🌱 I’m currently learning more about all things testing ✅ (React Testing Library, BDD, 🥒, WebDriver, etc.) for JS/React.
 
 - 💬 Ask me about **react**
 
