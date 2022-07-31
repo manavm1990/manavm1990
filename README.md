@@ -16,7 +16,8 @@
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 sports entertainment.
   - I 💙 playing Mario Kart on Nintendo Switch
-  - I'm working on losing ~~10~~ 20 pounds by July 13, 2022. That means I am 🏃‍♂️ running (sometimes). 😓
+  - I've been playing Doom 2016 on Switch.
+  - For the next 8 weeks, I am working my way up to running a 5K.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
