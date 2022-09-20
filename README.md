@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gocodefinity" target="blank"><img src="https://img.shields.io/twitter/follow/gocodefinity?logo=twitter&style=for-the-badge" alt="gocodefinity" /></a> </p>
 
-- 🌱 I’m currently learning more about all things testing ✅ (React Testing Library, BDD, 🥒, WebDriver, etc.) for JS/React.
+- 🌱 I’m currently looking for a full-time remote position as a developer, instructor or developer advocate. Check out my [web resume](https://standardresume.co/r/RmOEmEk6dx6Ca2POSkP4A) and reach out.
 
 - 💬 Ask me about **react**
 
