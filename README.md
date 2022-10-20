@@ -17,7 +17,7 @@
   - I ❤️ watching 🤼 sports entertainment.
   - I 💙 playing Mario Kart on Nintendo Switch
   - I've been playing Doom 2016 on Switch.
-  - For the next 8 weeks, I am working my way up to running a 5K.
+  - I am working my way up to being able to run a 5K, and hoping to lose weight in the process!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
