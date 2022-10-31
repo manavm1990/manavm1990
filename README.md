@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gocodefinity" target="blank"><img src="https://img.shields.io/twitter/follow/gocodefinity?logo=twitter&style=for-the-badge" alt="gocodefinity" /></a> </p>
-
 - 🌱 I’m currently looking for a full-time remote position as a developer, instructor or developer advocate. Check out my [web resume](https://standardresume.co/r/RmOEmEk6dx6Ca2POSkP4A) and reach out.
 
 - 💬 Ask me about **react**
@@ -22,10 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codefinity" height="30" width="40" /></a>
-<a href="https://twitter.com/gocodefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gocodefinity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manavm1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavm1990" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codefinity" height="30" width="40" /></a>
-<a href="https://medium.com/@codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codefinity" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucwgoouzz4fo9azdcvfi8lwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwgoouzz4fo9azdcvfi8lwg" height="30" width="40" /></a>
 </p>
 
