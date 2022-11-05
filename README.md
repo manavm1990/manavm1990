@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently looking for a full-time remote position as a developer, instructor or developer advocate. Check out my [web resume](https://standardresume.co/r/RmOEmEk6dx6Ca2POSkP4A) and reach out.
+- 🌱 I’m currently looking for a full-time remote position as a JavaScript developer or developer advocate. Check out my [web resume](https://standardresume.co/r/RmOEmEk6dx6Ca2POSkP4A) and reach out.
 
 - 💬 Ask me about **react**
 
