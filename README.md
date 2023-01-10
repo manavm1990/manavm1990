@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **manavm@visionwebsoft.com**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/manavm1990/)
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 sports entertainment.
