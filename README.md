@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently playing around with NestJS, MongoDB and Prisma.
+- 🌱 I’m currently playing around with TypeScript on the server-side with Zod for validation.
 
 - 💬 Ask me about **react**
 
@@ -13,7 +13,6 @@
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 sports entertainment.
-  - I 💙 playing Mario Kart on Nintendo Switch
   - I've been playing Doom 2016 on Switch.
   - I am down almost 30 pounds since last August!
 
