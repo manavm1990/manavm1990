@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently playing around with TypeScript on the server-side with Zod for validation.
+- 🌱 I’m currently learning Python/Django in preparation for a possible new senior full-stack role.
 
 - 💬 Ask me about **react**
 
