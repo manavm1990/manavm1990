@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CodeFinity</h1>
-<h3 align="center">JavaScript Subject Matter Expert (SME) and Instructor</h3>
+<h3 align="center">JavaScript Subject Matter Expert (SME) and Developer 👩🏾‍💻</h3>
+<h4 align="center">Open 2 Work! 📢</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavm1990&label=Profile%20views&color=0e75b6&style=flat" alt="manavm1990" /> </p>
 
