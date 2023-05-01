@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm CodeFinity</h1>
-<h3 align="center">JavaScript Subject Matter Expert (SME) and Developer 👩🏾‍💻</h3>
-<h4 align="center">Open 2 Work! 📢</h4>
+<h3 align="center">JavaScript and Python 🐍 Senior Developer 👩🏾‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavm1990&label=Profile%20views&color=0e75b6&style=flat" alt="manavm1990" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently learning Python/Django in preparation for a possible new senior full-stack role.
+- 🌱 I’m currently learning Python/Django and Django Rest Framework.
 
 - 💬 Ask me about **react**
 
