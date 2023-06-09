@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently learning Python/Django, Django Rest Framework and Dart/Flutter.
+- 🌱 I’m currently learning Python/Django, Django Rest Framework, Next.js (App Router).
 
 - 💬 Ask me about **react**
 
