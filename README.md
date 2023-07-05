@@ -6,14 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
 - 🌱 I’m currently upgrading a class-based React app to use [Next v13 App Router](https://nextjs.org/docs/app)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/manavm1990/)
+- 📫 How to reach me: 🤷‍♂️. If it's important enough...stalk me.
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 pro-wrestling. #BustedOpen247
-  - Powerlifter (Beginner)
+  - Powerlifter (Beginner). I **can and will** hit the 1000 lb. club!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
