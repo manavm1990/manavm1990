@@ -12,9 +12,8 @@
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/manavm1990/)
 
 - ⚡ Fun facts:
-  - I ❤️ watching 🤼 sports entertainment.
-  - I've been playing Doom 2016 on Switch.
-  - I am down almost 30 pounds since last August!
+  - I ❤️ watching 🤼 pro-wrestling. #BustedOpen247
+  - Powerlifter (Beginner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
