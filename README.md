@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CodeFinity</h1>
-<h3 align="center">JavaScript and Python 🐍 Senior Software Engineer 👩🏾‍💻</h3>
+<h3 align="center">JavaScript (React) Senior Software Engineer 👩🏾‍💻 and Coach</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavm1990&label=Profile%20views&color=0e75b6&style=flat" alt="manavm1990" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently learning Python/Django, Django Rest Framework, Next.js (App Router).
+- 🌱 I’m currently upgrading a class-based React app to use [Next v13 App Router](https://nextjs.org/docs/app)
 
 - 💬 Ask me about **react**
 
