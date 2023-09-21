@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently upgrading a class-based React app to use [Next v13 App Router](https://nextjs.org/docs/app)
-- 📫 How to reach me: 🤷‍♂️. If it's important enough...stalk me.
+- 🌱 I’m currently building out a custom design system in Storybook.
+- 📫 How to reach me: 🤷‍♂️. If it's important enough, sometimes I am on [LinkedIn](https://www.linkedin.com/in/manavm1990/).
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 pro-wrestling. #BustedOpen247
