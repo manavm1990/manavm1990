@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CodeFinity</h1>
-<h3 align="center">JavaScript (React) Senior Software Engineer 👩🏾‍💻 and Coach</h3>
+<h2 align="center">Senior Software Developer👩🏾‍💻 and Coach</h2>
+<p align="left">I specialize in the React ecosystem (e.g. NextJS App Router, React Testing Library), TS, Cypress, etc. I can also make my way around a back-end REST API or GraphQL server with Node/Express or Django/DRF.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavm1990&label=Profile%20views&color=0e75b6&style=flat" alt="manavm1990" /> </p>
 
