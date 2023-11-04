@@ -11,7 +11,7 @@
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 pro-wrestling. #BustedOpen247
-  - Powerlifter (Beginner/Intermediate). I **can and will** hit the 1000 lb. club!
+  - Powerlifter (Beginner) 🏋️‍♂️!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
