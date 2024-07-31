@@ -11,7 +11,7 @@
 - 📫 How to reach me: 🤷‍♂️. If it's important enough, sometimes I am on [LinkedIn](https://www.linkedin.com/in/manavm1990/).
 
 - ⚡ Fun facts:
-  - I ❤️ watching 🤼 pro-wrestling.
+  - I ❤️ watching 🤼 ~~pro-wrestling~~ sports entertainment.
   - Powerlifter (Beginner) 🏋️‍♂️!
 
 <h3 align="left">Connect with me:</h3>
