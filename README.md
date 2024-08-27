@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codefinity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manavm1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavm1990" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/codefinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codefinity" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucwgoouzz4fo9azdcvfi8lwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwgoouzz4fo9azdcvfi8lwg" height="30" width="40" /></a>
