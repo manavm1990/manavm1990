@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavm1990" alt="manavm1990" /></a> </p>
 
-- 🌱 I’m currently overhauling the entire front-end of a UI using NextJS v14. 🤓
-- 👨‍🎓 I'm currently learning Python 🐍.
 - 📫 How to reach me: 🤷‍♂️. If it's important enough, sometimes I am on [LinkedIn](https://www.linkedin.com/in/manavm1990/).
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 ~~pro-wrestling~~ sports entertainment.
-  - Powerlifter (Beginner) 🏋️‍♂️!
+  - Getting addicted to ♟️ chess. Pushing for an 1100 ELO rating.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
