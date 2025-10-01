@@ -9,8 +9,9 @@
 - 📫 How to reach me: 🤷‍♂️. If it's important enough, sometimes I am on [LinkedIn](https://www.linkedin.com/in/manavm1990/).
 
 - ⚡ Fun facts:
-  - I ❤️ watching 🤼 ~~pro-wrestling~~ sports entertainment.
+  - Watching 🤼 pro-wrestling
   - ♟️
+  - Doom
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
