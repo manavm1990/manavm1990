@@ -10,7 +10,7 @@
 
 - ⚡ Fun facts:
   - I ❤️ watching 🤼 ~~pro-wrestling~~ sports entertainment.
-  - Getting addicted to ♟️ chess. Pushing for an 1100 ELO rating.
+  - ♟️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
