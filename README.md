@@ -11,7 +11,7 @@
 - ⚡ Fun facts:
   - Watching 🤼 pro-wrestling
   - ♟️
-  - Doom
+  - Doom. XCOM: Enemy Within (🖕XCOM 2 👎).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
