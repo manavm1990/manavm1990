@@ -10,8 +10,7 @@
 
 - ⚡ Fun facts:
   - Watching 🤼 pro-wrestling
-  - Learning Godot for fun.
-  - Doom. XCOM: Enemy Within (🖕XCOM 2 👎).
+  - Doom. XCOM: Enemy Within (🖕XCOM 2 👎)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
